@@ -30,12 +30,15 @@ To run the frontend:
 ### If you already have the Angular installed 
 
 ```
+$ npm install
 $ ng serve
 ```
 ### else
 
 ```
 $ npm install -g @angular/cli
+$ cd ../path_to_frontend
+$ npm install
 $ ng serve
 ```
 
